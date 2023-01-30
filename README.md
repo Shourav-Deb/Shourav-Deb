@@ -47,3 +47,4 @@
  
  
  <img align="center" alt="Coding" width="1000" hight="200" src="https://i.kym-cdn.com/photos/images/newsfeed/001/861/472/64f.gif">
+<h3 align="center"; style="color:blue;"><i><u>Good Bye. See You Soon.</u></h3>
