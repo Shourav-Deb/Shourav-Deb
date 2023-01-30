@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/e87a6c63590071.5abbfb634deca.gif)
 
-<h1 align="center">Hi 👋, I'm Shourav Deb🤺.</h1>
+<h1 align="center">xin chào! 👋, I'm Shourav Deb 😜.</h1>
 <h3 align="center">A Passionate Computer Whiz.</h3>
 <img align="right" alt="Coding" width="400" src="https://data.whicdn.com/images/309541334/original.gif">
 
@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Web Development & Cyber Security.**
 
-- 💬 Ask me about **something which makes me special to you 😉😉.**
+- 💬 Ask me about **something which makes me special to you. 😘**
 
-- 📫 How to reach me **heyneeddev@gmail.com.**
+- 📫 How to ask me? 😉 Just mail me ~ **heyneeddev@gmail.com.** 😉
 
-- ⚡ Fun fact **I am also an 🤫 Esport lover 🤫.**
+- ⚡ Wanna know a fun fact **🤫 I am also an  Esport Player - Music Producer - Photographer. All in my dream. 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
