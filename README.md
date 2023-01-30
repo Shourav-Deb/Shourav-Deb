@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shourav-deb&label=So%20I%20am%20popular%20among&color=f88818&style=plastic" alt="shourav-deb" /> </p>
 
-<b>- 🔭 I’m currently working on 😩 Creating Myself 😩.
+<b>- 🧩 I’m currently working on 😩 Creating Myself 😩.
 
-<b>- 🌱 I’m learning **Web Development & Cyber Security 🥺.**
+<b>- 🧠 I’m learning **Web Development & Cyber Security 🥺.**
 
-<b>- 🌱 I’m also interested **in AI.**
+<b>- 👨‍💻 I’m also interested **in AI 🤖**. Will you teach me 😱.
 
 <b>- 💬 Ask me about **something which makes me special to you** 😘.
 
