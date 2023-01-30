@@ -1,8 +1,8 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/e87a6c63590071.5abbfb634deca.gif)
 
-<h1 align="center"><b>Xin Chào!👋</h1>
+<h1 align="center"><b>Xin Chào!👋
 <img align="center" alt="Coding" width="30" src="https://data.whicdn.com/images/309541334/original.gif">
- <h1 align="center"><b> , I'm Shourav Deb 😜.</h1>
+ , I'm Shourav Deb 😜.</h1>
 <h3 align="center"; style="color:blue;"><i><u>A Passionate Computer Whiz.</u></h3>
 <img align="right" alt="Coding" width="370" src="https://data.whicdn.com/images/309541334/original.gif">
 
