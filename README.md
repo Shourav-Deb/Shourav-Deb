@@ -46,4 +46,4 @@
  
  
  
- <img align="center" alt="Coding" width="870" src="https://i.kym-cdn.com/photos/images/newsfeed/001/861/472/64f.gif">
+ <img align="center" alt="Coding" width="870" hight="200" src="https://i.kym-cdn.com/photos/images/newsfeed/001/861/472/64f.gif">
