@@ -8,7 +8,9 @@
 
 <b>- 🔭 I’m currently working on 😩 Creating Myself 😩.
 
-<b>- 🌱 I’m currently learning **Web Development & Cyber Security.**
+<b>- 🌱 I’m learning **Web Development & Cyber Security 🥺.**
+
+<b>- 🌱 I’m also interested **in AI.**
 
 <b>- 💬 Ask me about **something which makes me special to you** 😘.
 
