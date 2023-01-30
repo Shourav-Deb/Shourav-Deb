@@ -18,7 +18,7 @@
 
 <b>- 📫 How to ask me? 😉 Just mail me ~ **heyneeddev@gmail.com** 😉.
 
-<b>- ⚡ Wanna know a fun fact **🤫 I am also an  Esport Player - Music Producer - Photographer - Travel Lover - Movie Geek - . But all are in my dream. 😟.**
+<b>- ⚡ Wanna know a fun fact **🤫 I am also an  Esport Player - Music Producer - Photographer - Travel Lover - Movie Geek - Foodie - .       But all are in my dream. 😟.**
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
