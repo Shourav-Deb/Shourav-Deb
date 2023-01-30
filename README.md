@@ -2,7 +2,7 @@
 
 <h1 align="center"><b>Xin Chào!
 <img align="center" alt="Coding" width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
- , I'm Shourav Deb 😜.</h1>
+ , I'm Shourav Deb <img align="center" alt="Coding" width="30" src="https://media.tenor.com/zwsk_1zB77IAAAAi/emoji-cute.gif">.</h1>
 <h3 align="center"; style="color:blue;"><i><u>A Passionate Computer Whiz.</u></h3>
 <img align="right" alt="Coding" width="370" src="https://data.whicdn.com/images/309541334/original.gif">
 
