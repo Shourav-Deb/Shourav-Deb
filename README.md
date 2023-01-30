@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/e87a6c63590071.5abbfb634deca.gif)
 
 <h1 align="center">xin chào!👋, I'm Shourav Deb 😜.</h1>
-<h3 align="center"; style="color:blue">A Passionate Computer Whiz.</h3>
+<h3 align="center"; style="font-size:60px;color:blue;">A Passionate Computer Whiz.</h3>
 <h3 align="center"; style="color:blue">_____________________________</h3>
 <img align="right" alt="Coding" width="370" src="https://data.whicdn.com/images/309541334/original.gif">
 
