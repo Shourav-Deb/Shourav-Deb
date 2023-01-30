@@ -51,4 +51,4 @@
  
  
  
- <img align="right" alt="Coding" width="370" src="https://data.whicdn.com/images/309541334/original.gif">
+ <img align="center" alt="Coding" width="370" src="https://data.whicdn.com/images/309541334/original.gif">
