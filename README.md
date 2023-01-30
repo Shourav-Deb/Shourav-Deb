@@ -46,4 +46,4 @@
  
  
  
- <img align="center" alt="Coding" width="370" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif">
+ <img align="center" alt="Coding" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif">
