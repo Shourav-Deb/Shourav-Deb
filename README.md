@@ -18,12 +18,12 @@
 
 <b>- 📫 How to ask me? 😉 Just mail me ~ **heyneeddev@gmail.com** 😉.
 
-<b>- ⚡ Wanna know a fun fact **🤫 I am also an  Player - Musician - Photographer - Traveler - Movie Geek - Foodie.       But all are in my dream. 😟.**
+<b>- ⚡ Wanna know a fun fact **🤫 I am also an  Player - Musician - Photographer - Traveler - Movie Geek - Foodie.       But all are in my dreamland. 😟.**
 
 <h2 align="left">📌 Connect with me 🤝:</h2>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a></p>
 
-<h2 align="left">📄 Some I Know, Some I Bluffed 🤞:</h2>
+<h2 align="left">📊 Some I Know, Some I Bluffed 🤞:</h2>
 <p align="left">
 
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -46,4 +46,4 @@
  
  
  
- <img align="center" alt="Coding" width="370" src="https://data.whicdn.com/images/309541334/original.gif">
+ <img align="center" alt="Coding" width="370" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif">
