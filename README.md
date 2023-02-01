@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shourav-deb&label=So%20I%20am%20popular%20among&color=f88818&style=plastic" alt="shourav-deb" /></p>
 
-<b>- 🧩 I’m currently working on <img alt="discription" width="30" src="https://gfycat.com/sandycooperativeichneumonfly"> Creating Myself <img alt="discription" width="30" src="https://gfycat.com/sandycooperativeichneumonfly">.
+<b>- <img alt="discription" width="30" src="https://i.pinimg.com/originals/ef/03/75/ef0375eb7cbe1f40ae9edad84d34d48c.gif"> I’m currently working on <img alt="discription" width="30" src="https://gfycat.com/sandycooperativeichneumonfly"> Creating Myself <img alt="discription" width="30" src="https://gfycat.com/sandycooperativeichneumonfly">.
 
 <b>- 🧠 I’m learning **Web Development & Cyber Security 🥺.**
 
