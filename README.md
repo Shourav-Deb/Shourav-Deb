@@ -1,5 +1,5 @@
 ![MasterHead]("")
-<img align="center" alt="Coding" width="30" src="https://i.pinimg.com/originals/ab/98/87/ab9887309c7694c3824060e45c1c6c60.gif">
+<img align="center" alt="Coding" width="600" src="https://i.pinimg.com/originals/ab/98/87/ab9887309c7694c3824060e45c1c6c60.gif">
 <h1 align="center"><b>Xin Chào!
 <img align="center" alt="Coding" width="30" src="https://i.pinimg.com/originals/26/df/44/26df447c41afd7bcffcf4c677e4bf56f.gif">, Wǒ Shì Shourav Deb <img align="center" alt="Coding" width="30" src="https://i.pinimg.com/originals/aa/94/ef/aa94ef2a63715ea27cddd00c39c4cb68.gif">.</h1>
 <h3 align="center"; style="color:blue;"><i><u>𝒜 𝒫𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒞𝑜𝓂𝓅𝓊𝓉𝑒𝓇 𝒲𝒽𝒾𝓏..</u></h3>
