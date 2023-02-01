@@ -22,7 +22,7 @@
 <h3></h3>
 <h2 align="left">📌 Connect with me 🤝:</h2>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a></p>
-<h3></h3>
+<h1></h1>
 <h2 align="left">📊 Some I Know, Some I Bluffed 🤞:</h2>
 <p align="left">
 
