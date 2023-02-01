@@ -9,17 +9,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shourav-deb&label=So%20I%20am%20popular%20among&color=f88818&style=plastic" alt="shourav-deb" /></p>
 
-<b>- <img alt="discription" width="30" src="https://i.pinimg.com/originals/7b/ce/31/7bce31eb165acef8adb841a0bf23b849.gif"> I’m currently working on <img alt="discription" width="20" src="https://i.pinimg.com/originals/99/cd/69/99cd696ea5e9e5e173baade198190e9c.gif"> Creating Myself <img alt="discription" width="20" src="https://i.pinimg.com/originals/99/cd/69/99cd696ea5e9e5e173baade198190e9c.gif">.
+<b>- 🧩 I’m currently working on <img alt="discription" width="20" src="https://i.pinimg.com/originals/99/cd/69/99cd696ea5e9e5e173baade198190e9c.gif"> Creating Myself <img alt="discription" width="20" src="https://i.pinimg.com/originals/99/cd/69/99cd696ea5e9e5e173baade198190e9c.gif">.
 
-<b>- 🧠 I’m learning **Web Development & Cyber Security 🥺.**
+<b>- <img alt="discription" width="20" src="https://i.pinimg.com/originals/7b/ce/31/7bce31eb165acef8adb841a0bf23b849.gif"> I’m learning **Web Development & Cyber Security <img alt="discription" width="20" src="https://i.pinimg.com/originals/7b/ce/31/7bce31eb165acef8adb841a0bf23b849.gif"> .**
 
-<b>- 👨‍💻 I’m also interested **in AI 🤖**. Will you teach me 😱.
+<b>- ✨ I’m also interested **in AI 🤖**. Will you teach me <img alt="discription" width="20" src="https://i.pinimg.com/originals/98/ff/14/98ff14483207d6af03ce01bcaaeee9f5.gif"> .
 
 <b>- 💬 Ask me about **something which makes me special to you** 😘.
 
 <b>- 📫 How to ask me? 😉 Just mail me ~ **heyneeddev@gmail.com** 😉.
 
-<b>- ⚡ Wanna know a fun fact **🤫 I am also an  Player - Musician - Photographer - Traveler - Movie Geek - Foodie.       But all are in my dreamland. 😟.**
+<b>- ⚡ Wanna know a fun fact **🤫 I am also an  Player - Musician - Photographer - Traveler - Movie Geek - Foodie.       But all are in my dreamland. <img alt="discription" width="20" src="https://i.pinimg.com/originals/25/72/06/257206d377b0ad5c5c545b56c0b178ff.gif"> .**
 <br><br>
 <h2 align="left">📌 Connect with me 🤝:</h2>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a></p>
