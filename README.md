@@ -1,11 +1,11 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/e87a6c63590071.5abbfb634deca.gif)
 
 <h1 align="center"><b>Xin Chào!
-<img align="center" alt="Coding" width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
- , I'm Shourav Deb <img align="center" alt="Coding" width="30" src="https://media.tenor.com/zwsk_1zB77IAAAAi/emoji-cute.gif">.</h1>
+<img align="center" alt="Coding" width="30" src="https://i.pinimg.com/originals/26/df/44/26df447c41afd7bcffcf4c677e4bf56f.gif">
+ , Wǒ Shì Shourav Deb <img align="center" alt="Coding" width="30" src="https://i.pinimg.com/originals/aa/94/ef/aa94ef2a63715ea27cddd00c39c4cb68.gif">.</h1>
 <h3 align="center"; style="color:blue;"><i><u>A Passionate Computer Whiz.</u></h3>
 <br>
-<img align="right" alt="Coding" width="370" src="https://data.whicdn.com/images/309541334/original.gif">
+<img align="right" alt="Coding" width="370" src="https://i.pinimg.com/originals/0f/8e/10/0f8e10b4dc9707d222113df0aec0bf2f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shourav-deb&label=So%20I%20am%20popular%20among&color=f88818&style=plastic" alt="shourav-deb" /></p>
 
@@ -48,5 +48,5 @@
  <h2></h2>
  <h3 align="center"; style="color:blue;"><i><u><img align="center" alt="Coding" width="30" src="https://i.pinimg.com/originals/ce/a0/15/cea01573800a42c1803da6ed311d12f8.gif"><<  Leaving So Early  >><img align="center" alt="Coding" width="30" src="https://usagif.com/wp-content/uploads/2022/01/crying-emoji-m.gif"></u></h3>
   
- <img align="center" alt="Coding" width="1000" hight="200" src="https://i.kym-cdn.com/photos/images/newsfeed/001/861/472/64f.gif">
-<h3 align="center"; style="color:blue;"><i><u><img align="center" alt="Coding" width="30" src="https://usagif.com/wp-content/uploads/2022/01/crying-emoji-m.gif">Good Bye. See You Soon.<img align="center" alt="Coding" width="30" src="https://usagif.com/wp-content/uploads/2022/01/crying-emoji-m.gif"></u></h3>
+ <img align="center" alt="Coding" width="1000" hight="200" src="https://i.pinimg.com/originals/5a/e9/b5/5ae9b5886062c84a47af48e0ff571f27.gif">
+<h3 align="center"; style="color:blue;"><i><u><img align="center" alt="Coding" width="30" src="https://i.pinimg.com/originals/3b/1a/3d/3b1a3d89dc965f415cd350d119090ea4.gif">Good Bye. See You Soon.<img align="center" alt="Coding" width="30" src="https://i.pinimg.com/originals/3b/1a/3d/3b1a3d89dc965f415cd350d119090ea4.gif"></u></h3>
