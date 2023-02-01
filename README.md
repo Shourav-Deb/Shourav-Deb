@@ -4,6 +4,7 @@
 <img align="center" alt="Coding" width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
  , I'm Shourav Deb <img align="center" alt="Coding" width="30" src="https://media.tenor.com/zwsk_1zB77IAAAAi/emoji-cute.gif">.</h1>
 <h3 align="center"; style="color:blue;"><i><u>A Passionate Computer Whiz.</u></h3>
+<br>
 <img align="right" alt="Coding" width="370" src="https://data.whicdn.com/images/309541334/original.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shourav-deb&label=So%20I%20am%20popular%20among&color=f88818&style=plastic" alt="shourav-deb" /></p>
@@ -19,10 +20,10 @@
 <b>- 📫 How to ask me? 😉 Just mail me ~ **heyneeddev@gmail.com** 😉.
 
 <b>- ⚡ Wanna know a fun fact **🤫 I am also an  Player - Musician - Photographer - Traveler - Movie Geek - Foodie.       But all are in my dreamland. 😟.**
-<h3></h3>
+<br>
 <h2 align="left">📌 Connect with me 🤝:</h2>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a></p>
-<h1></h1>
+<br>
 <h2 align="left">📊 Some I Know, Some I Bluffed 🤞:</h2>
 <p align="left">
 
