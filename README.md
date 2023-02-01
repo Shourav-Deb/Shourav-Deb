@@ -19,10 +19,10 @@
 <b>- 📫 How to ask me? 😉 Just mail me ~ **heyneeddev@gmail.com** 😉.
 
 <b>- ⚡ Wanna know a fun fact **🤫 I am also an  Player - Musician - Photographer - Traveler - Movie Geek - Foodie.       But all are in my dreamland. 😟.**
-
+<h3></h3>
 <h2 align="left">📌 Connect with me 🤝:</h2>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a></p>
-
+<h3></h3>
 <h2 align="left">📊 Some I Know, Some I Bluffed 🤞:</h2>
 <p align="left">
 
@@ -45,6 +45,7 @@
 </p>--> 
  
  <h2></h2>
- 
+ <h3 align="center"; style="color:blue;"><i><u><img align="center" alt="Coding" width="30" src="https://usagif.com/wp-content/uploads/2022/01/crying-emoji-m.gif"><<  Leaving So Early  >><img align="center" alt="Coding" width="30" src="https://usagif.com/wp-content/uploads/2022/01/crying-emoji-m.gif"></u></h3>
+  
  <img align="center" alt="Coding" width="1000" hight="200" src="https://i.kym-cdn.com/photos/images/newsfeed/001/861/472/64f.gif">
 <h3 align="center"; style="color:blue;"><i><u><img align="center" alt="Coding" width="30" src="https://usagif.com/wp-content/uploads/2022/01/crying-emoji-m.gif">Good Bye. See You Soon.<img align="center" alt="Coding" width="30" src="https://usagif.com/wp-content/uploads/2022/01/crying-emoji-m.gif"></u></h3>
