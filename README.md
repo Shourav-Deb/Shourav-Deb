@@ -38,9 +38,10 @@
  <a href="" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/d9/14/d5/d914d51a88a57405aa2e92d6e039d559.gif" alt="html5" width="50" height="50"/></a>
  <a href="" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/a5/f6/a3/a5f6a32e0b7536b8cccc17ea77bb2401.gif" alt="css3" width="50" height="50"/></a>
  <a href="" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/fa/d3/a5/fad3a57446df8e28f19fd56a65e50baa.gif" alt="javascript" width="50" height="50"/></a>
- <a href="https://github.com/Shourav-Deb/Wonderland-A-Bus-Ticket-Booking-System" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/a0/6c/d8/a06cd8ef9e55fdc799edcd56e229816b.gif" alt="C" width="60" height="60"/></a>
+ <a href="https://github.com/Shourav-Deb/Wonderland-A-Bus-Ticket-Booking-System" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/9b/a0/2f/9ba02f5a83e30b95e0e1ed8428249edd.gif" alt="C" width="60" height="55"/></a>
+ <a href="https://github.com/Shourav-Deb/Wonderland-A-Bus-Ticket-Booking-System" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/ce/3f/9d/ce3f9d9f1301598253be4d707943f97e.gif" alt="C++" width="45" height="55"/></a>
  <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/ea/ff/a2/eaffa29ff89eb1b2dd8e469a5e1acf6f.gif" alt="python" width="60" height="60"/></a>
- <a href="https://github.com/Shourav-Deb/Lovely-An-Actor-Renting-And-Adaptation-Management-Application" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/2c/ee/22/2cee226e39d6bdaaa50129946ca6a626.gif" alt="java" width="90" height="55"/></a>
+ <a href="https://github.com/Shourav-Deb/Lovely-An-Actor-Renting-And-Adaptation-Management-Application" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/d4/b5/c4/d4b5c40f48f737f16e1d7d782941caac.gif" alt="java" width="55" height="75"/></a>
 
 --> Tool's
  
