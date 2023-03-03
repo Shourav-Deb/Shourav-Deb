@@ -28,14 +28,14 @@
 <h2 align="left">📊 Some I Know, Some I Bluffed 🤞:</h2>
 <p align="left">
 
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/d9/14/d5/d914d51a88a57405aa2e92d6e039d559.gif" alt="html5" width="50" height="50"/> </a>
+ <a href="" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/a5/f6/a3/a5f6a32e0b7536b8cccc17ea77bb2401.gif" alt="css3" width="50" height="50"/></a>
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/fa/d3/a5/fad3a57446df8e28f19fd56a65e50baa.gif" alt="javascript" width="50" height="50"/></a>
+ <a href="https://github.com/Shourav-Deb/Wonderland-A-Bus-Ticket-Booking-System" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/a0/6c/d8/a06cd8ef9e55fdc799edcd56e229816b.gif" alt="C" width="60" height="60"/> </a>
+ <a href="https://github.com/Shourav-Deb/Lovely-An-Actor-Renting-And-Adaptation-Management-Application" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/2c/ee/22/2cee226e39d6bdaaa50129946ca6a626.gif" alt="java" width="90" height="55"/></a>
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/18/87/93/1887933cda1b8188cd0cc95fa8a6de06.gif" alt="python" width="40" height="40"/></a>
+ 
+ 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
