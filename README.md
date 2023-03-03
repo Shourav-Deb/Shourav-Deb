@@ -21,7 +21,9 @@
 <b>- ⚡ Wanna know a fun fact **🤫 I am also an  Player - Musician - Photographer - Traveler - Movie Geek - Foodie.       But all are in my dreamland. <img alt="discription" width="36" src="https://i.pinimg.com/originals/25/72/06/257206d377b0ad5c5c545b56c0b178ff.gif"> .**
 <br><br>
 <h2 align="left">📌 Connect with me 🤝:</h2>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a></p>
+<p align="left"> <a href="mailto:heyneeddev@gmail.com" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/5b/ed/dd/5bedddc0908bdbb4329d5e17a21caf0d.gif" alt="gmail" width="50" height="50"/> </a> 
+<a href="https://www.linkedin.com/in/shouravdeb" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/bd/59/5a/bd595ade1287d1aa536cabf1bed379b8.gif" alt="linkedin" width="70" height="50"/> </a> 
+<a href="https://www.hackerrank.com/shouravdeb" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/bf/d7/5b/bfd75b97d0ea5fffb60835ef82378914.gif" alt="hackerrank" width="50" height="60"/> </a></p>
 <br>
 <h2 align="left">📊 Some I Know, Some I Bluffed 🤞:</h2>
 <p align="left">
