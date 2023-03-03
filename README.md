@@ -50,7 +50,7 @@
 <img src="https://i.pinimg.com/originals/59/d5/bf/59d5bfdd8af162557f30156f7ea5fd92.gif" alt="aftereffect" width="80" height="100"/> </a>
 <a href="https://github.com/Shourav-Deb/Autocad-Projects" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/21/b8/59/21b859c5d1a7368d7835113859566718.gif" alt="autocad" width="65" height="73"/> </a>
 <img src="https://i.pinimg.com/originals/1d/11/67/1d116763a7fe6ccab1ad9e062ed1d5df.gif" alt="word" width="100" height="90"/></a>
-<a href="https://github.com/Shourav-Deb/Application-of-Calculus-in-Data-Mining./" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/fd/bc/af/fdbcaf5fa4edcd0f6edf6b16efebf67a.gif" alt="powerpoint" width="63" height="75"/> </a>
+<a href="https://github.com/Shourav-Deb/Application-of-Calculus-in-Data-Mining./" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/fd/bc/af/fdbcaf5fa4edcd0f6edf6b16efebf67a.gif" alt="powerpoint" width="65" height="75"/> </a>
 </p>
   
 <!--<h2 align="left">☕️ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈:</h2>
