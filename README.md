@@ -31,9 +31,9 @@
 <p align="left">
  --> Country Language's
 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/70/af/d5/70afd5096cf07bd75994c64f5c475f86.gif" alt="bengali" width="50" height="30"/></a>
- <img src="https://i.pinimg.com/originals/10/d6/94/10d6947819d3a0ae5bf6060da719fcc6.gif" alt="hindi" width="50" height="30"/>
- <img src="https://i.pinimg.com/originals/e3/66/49/e366497f8a254f8588c8daf9fb851364.gif" alt="english" width="50" height="30"/>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/70/af/d5/70afd5096cf07bd75994c64f5c475f86.gif" alt="bengali" width="110" height="60"/></a>
+ <img src="https://i.pinimg.com/originals/10/d6/94/10d6947819d3a0ae5bf6060da719fcc6.gif" alt="hindi" width="110" height="60"/>
+ <img src="https://i.pinimg.com/originals/e3/66/49/e366497f8a254f8588c8daf9fb851364.gif" alt="english" width="110" height="60"/>
  
  --> Programming Language's 
  
