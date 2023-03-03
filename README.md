@@ -8,7 +8,7 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0f/8e/10/0f8e10b4dc9707d222113df0aec0bf2f.gif">
  
-<p align="left"><img width="30" src="https://komarev.com/ghpvc/?username=shourav-deb&label=So,%20I%20am%20popular%20among&color=f88818&style=plastic" alt="shourav-deb"/></p>
+<!--<p align="left"><img width="30" src="https://komarev.com/ghpvc/?username=shourav-deb&label=So,%20I%20am%20popular%20among&color=f88818&style=plastic" alt="shourav-deb"/></p>-->
  <p align="left">> So, I am popular among -</p>
  <img src="https://count.getloli.com/get/@shourav-deb?theme=rule34" alt="shourav-deb" />
 
