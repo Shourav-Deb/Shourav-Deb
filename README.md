@@ -8,7 +8,7 @@
 <br>
 <img align="right" alt="Coding" width="370" src="https://i.pinimg.com/originals/0f/8e/10/0f8e10b4dc9707d222113df0aec0bf2f.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shourav-deb&label=So,%20I%20am%20popular%20among&color=f88818&style=plastic" alt="shourav-deb" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=shourav-deb&label=So,%20I%20am%20popular%20among&color=f88818&style=plastic" alt="shourav-deb" /></p>
 
 <b>- 🧩 I’m currently working on Creating Myself <img alt="discription" width="30" src="https://i.pinimg.com/originals/99/cd/69/99cd696ea5e9e5e173baade198190e9c.gif">.<br>
 <b>- 🧠 I’m learning **Web Development & Cyber Security <img alt="discription" width="40" src="https://i.pinimg.com/originals/fc/ac/6c/fcac6c816fe444f5442965d6da93e870.gif"> .**<br>
@@ -45,8 +45,8 @@
 
 --> Tool's
  
-<img src="https://i.pinimg.com/originals/34/bd/56/34bd56ab275a13363fdc35e82a9335d3.gif" alt="photoshop" width="70" height="80"/> </a>
-<img src="https://i.pinimg.com/originals/79/b1/1d/79b11d73908cf483e247c3a16a2d6f6b.gif" alt="illustrator" width="50" height="75"/> </a>
+<img src="https://i.pinimg.com/originals/34/bd/56/34bd56ab275a13363fdc35e82a9335d3.gif" alt="photoshop" width="70" height="93"/> </a>
+<img src="https://i.pinimg.com/originals/79/b1/1d/79b11d73908cf483e247c3a16a2d6f6b.gif" alt="illustrator" width="50" height="83"/> </a>
 <img src="https://i.pinimg.com/originals/59/d5/bf/59d5bfdd8af162557f30156f7ea5fd92.gif" alt="aftereffect" width="80" height="100"/> </a>
 <a href="https://github.com/Shourav-Deb/Autocad-Projects" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/21/b8/59/21b859c5d1a7368d7835113859566718.gif" alt="autocad" width="65" height="73"/> </a>
 <img src="https://i.pinimg.com/originals/1d/11/67/1d116763a7fe6ccab1ad9e062ed1d5df.gif" alt="word" width="100" height="90"/></a>
