@@ -23,7 +23,7 @@
 <h2 align="left">📌 Connect with me 🤝:</h2>
 <p align="left"> <a href="mailto:heyneeddev@gmail.com" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/5b/ed/dd/5bedddc0908bdbb4329d5e17a21caf0d.gif" alt="gmail" width="50" height="50"/> </a> 
 <a href="https://www.linkedin.com/in/shouravdeb" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/bd/59/5a/bd595ade1287d1aa536cabf1bed379b8.gif" alt="linkedin" width="70" height="50"/> </a> 
-<a href="https://www.hackerrank.com/shouravdeb" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/bf/d7/5b/bfd75b97d0ea5fffb60835ef82378914.gif" alt="hackerrank" width="50" height="60"/> </a></p>
+<a href="https://www.hackerrank.com/shouravdeb" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/40/7d/7f/407d7fa1545401237d164219e0f2415a.gif" alt="hackerrank" width="40" height="50"/> </a></p>
 <br>
 <h2 align="left">📊 Some I Know, Some I Bluffed 🤞:</h2>
 <p align="left">
