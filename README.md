@@ -6,10 +6,11 @@
 <img align="center" alt="Coding" width="30" src="https://i.pinimg.com/originals/26/df/44/26df447c41afd7bcffcf4c677e4bf56f.gif">, Wǒ Shì Shourav Deb <img align="center" alt="Coding" width="30" src="https://i.pinimg.com/originals/aa/94/ef/aa94ef2a63715ea27cddd00c39c4cb68.gif">.</h1>
 <h3 align="center"; style="color:blue;"><i><u>𝒜 𝒫𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒞𝑜𝓂𝓅𝓊𝓉𝑒𝓇 𝒲𝒽𝒾𝓏..</u></h3>
 <br>
-<img align="right" alt="Coding" width="370" src="https://i.pinimg.com/originals/0f/8e/10/0f8e10b4dc9707d222113df0aec0bf2f.gif">
-<p align="left"><img src="https://komarev.com/ghpvc/?username=shourav-deb&label=So,%20I%20am%20popular%20among&color=f88818&style=plastic" alt="shourav-deb" /></p>
- <p align="left">So, I am popular among -</p>
- <img src="https://count.getloli.com/get/@shourav-deb" alt="shourav-deb" />
+<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/0f/8e/10/0f8e10b4dc9707d222113df0aec0bf2f.gif">
+ 
+<!--<p align="left"><img width="30" src="https://komarev.com/ghpvc/?username=shourav-deb&label=So,%20I%20am%20popular%20among&color=f88818&style=plastic" alt="shourav-deb"/></p>-->
+ <p align="left">> So, I am popular among -</p>
+ <img src="https://count.getloli.com/get/@shourav-deb?theme=rule34" alt="shourav-deb" />
 
 <b>- 🧩 I’m currently working on Creating Myself <img alt="discription" width="30" src="https://i.pinimg.com/originals/99/cd/69/99cd696ea5e9e5e173baade198190e9c.gif">.<br>
 <b>- 🧠 I’m learning **Web Development & Cyber Security <img alt="discription" width="40" src="https://i.pinimg.com/originals/fc/ac/6c/fcac6c816fe444f5442965d6da93e870.gif"> .**<br>
