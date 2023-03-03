@@ -24,30 +24,35 @@
 <p align="left"> <a href="mailto:heyneeddev@gmail.com" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/5b/ed/dd/5bedddc0908bdbb4329d5e17a21caf0d.gif" alt="gmail" width="50" height="50"/> </a> 
 <a href="https://www.linkedin.com/in/shouravdeb" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/bd/59/5a/bd595ade1287d1aa536cabf1bed379b8.gif" alt="linkedin" width="70" height="50"/> </a> 
 <a href="https://www.hackerrank.com/shouravdeb" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/40/7d/7f/407d7fa1545401237d164219e0f2415a.gif" alt="hackerrank" width="40" height="50"/> </a></p>
-<br>
+
 <h2 align="left">📊 Some I Know, Some I Bluffed 🤞:</h2>
 <p align="left">
- --> Country Language's -
- 
+ --> Country Language's
+
  <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/70/af/d5/70afd5096cf07bd75994c64f5c475f86.gif" alt="bengali" width="50" height="30"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/10/d6/94/10d6947819d3a0ae5bf6060da719fcc6.gif" alt="hindi" width="50" height="30"/> </a>
   <a href="https://i.pinimg.com/originals/e3/66/49/e366497f8a254f8588c8daf9fb851364.gif" target="_blank" rel="noreferrer"><meta http-equiv = "refresh" content = "1; url = https://www.tutorialspoint.com" /> <img src="https://i.pinimg.com/originals/e3/66/49/e366497f8a254f8588c8daf9fb851364.gif" alt="english" width="50" height="30"/> </a>
  
- --> Programming Language's - 
+ --> Programming Language's 
  
- <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/d9/14/d5/d914d51a88a57405aa2e92d6e039d559.gif" alt="html5" width="50" height="50"/> </a>
+ <a href="" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/d9/14/d5/d914d51a88a57405aa2e92d6e039d559.gif" alt="html5" width="50" height="50"/></a>
  <a href="" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/a5/f6/a3/a5f6a32e0b7536b8cccc17ea77bb2401.gif" alt="css3" width="50" height="50"/></a>
- <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/fa/d3/a5/fad3a57446df8e28f19fd56a65e50baa.gif" alt="javascript" width="50" height="50"/></a>
- <a href="https://github.com/Shourav-Deb/Wonderland-A-Bus-Ticket-Booking-System" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/a0/6c/d8/a06cd8ef9e55fdc799edcd56e229816b.gif" alt="C" width="60" height="60"/> </a>
- <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/18/87/93/1887933cda1b8188cd0cc95fa8a6de06.gif" alt="python" width="40" height="40"/></a>
+ <a href="" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/fa/d3/a5/fad3a57446df8e28f19fd56a65e50baa.gif" alt="javascript" width="50" height="50"/></a>
+ <a href="https://github.com/Shourav-Deb/Wonderland-A-Bus-Ticket-Booking-System" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/a0/6c/d8/a06cd8ef9e55fdc799edcd56e229816b.gif" alt="C" width="60" height="60"/></a>
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/ea/ff/a2/eaffa29ff89eb1b2dd8e469a5e1acf6f.gif" alt="python" width="60" height="60"/></a>
  <a href="https://github.com/Shourav-Deb/Lovely-An-Actor-Renting-And-Adaptation-Management-Application" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/2c/ee/22/2cee226e39d6bdaaa50129946ca6a626.gif" alt="java" width="90" height="55"/></a>
 
+--> Tool's
  
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a></p>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
+ <a href="https://github.com/Shourav-Deb/Autocad-Projects" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="autocad" width="40" height="40"/> </a>
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/a3/84/4f/a3844f1f00b4c3c578d2bace3b60bf24.gif" alt="word" width="45" height="45"/> </a>
+ <a href="https://github.com/Shourav-Deb/Application-of-Calculus-in-Data-Mining./" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/fd/bc/af/fdbcaf5fa4edcd0f6edf6b16efebf67a.gif" alt="powerpoint" width="50" height="40"/> </a>
+ </p>
   
 <!--<h2 align="left">☕️ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈:</h2>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
