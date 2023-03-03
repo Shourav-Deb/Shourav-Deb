@@ -45,12 +45,12 @@
 
 --> Tool's
  
-<img src="https://i.pinimg.com/originals/a5/70/90/a57090f4c9f207376ac9eb381c70347d.gif" alt="photoshop" width="70" height="80"/> </a>
-<img src="https://i.pinimg.com/originals/d0/1c/13/d01c13840fd5c74280d4b25e5769f9de.gif" alt="illustrator" width="70" height="70"/> </a>
-<img src="https://i.pinimg.com/originals/a4/0b/71/a40b71f76276685b405f3f4940f7767b.gif" alt="aftereffect" width="77" height="60"/> </a>
-<a href="https://github.com/Shourav-Deb/Autocad-Projects" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/21/b8/59/21b859c5d1a7368d7835113859566718.gif" alt="autocad" width="40" height="50"/> </a>
-<img src="https://i.pinimg.com/originals/dc/1f/11/dc1f114bf336f83250bec2776c8c62eb.gif" alt="word" width="60" height="40"/></a>
-<a href="https://github.com/Shourav-Deb/Application-of-Calculus-in-Data-Mining./" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/fd/bc/af/fdbcaf5fa4edcd0f6edf6b16efebf67a.gif" alt="powerpoint" width="50" height="40"/> </a>
+<img src="https://i.pinimg.com/originals/34/bd/56/34bd56ab275a13363fdc35e82a9335d3.gif" alt="photoshop" width="70" height="80"/> </a>
+<img src="https://i.pinimg.com/originals/79/b1/1d/79b11d73908cf483e247c3a16a2d6f6b.gif" alt="illustrator" width="50" height="75"/> </a>
+<img src="https://i.pinimg.com/originals/59/d5/bf/59d5bfdd8af162557f30156f7ea5fd92.gif" alt="aftereffect" width="80" height="100"/> </a>
+<a href="https://github.com/Shourav-Deb/Autocad-Projects" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/21/b8/59/21b859c5d1a7368d7835113859566718.gif" alt="autocad" width="65" height="73"/> </a>
+<img src="https://i.pinimg.com/originals/1d/11/67/1d116763a7fe6ccab1ad9e062ed1d5df.gif" alt="word" width="100" height="90"/></a>
+<a href="https://github.com/Shourav-Deb/Application-of-Calculus-in-Data-Mining./" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/fd/bc/af/fdbcaf5fa4edcd0f6edf6b16efebf67a.gif" alt="powerpoint" width="63" height="75"/> </a>
 </p>
   
 <!--<h2 align="left">☕️ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈:</h2>
