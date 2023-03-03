@@ -29,29 +29,29 @@
 <p align="left">
  --> Country Language's
 
- <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/70/af/d5/70afd5096cf07bd75994c64f5c475f86.gif" alt="bengali" width="50" height="30"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/10/d6/94/10d6947819d3a0ae5bf6060da719fcc6.gif" alt="hindi" width="50" height="30"/> </a>
-  <a href="https://i.pinimg.com/originals/e3/66/49/e366497f8a254f8588c8daf9fb851364.gif" target="_blank" rel="noreferrer"><meta http-equiv = "refresh" content = "1; url = https://www.tutorialspoint.com" /> <img src="https://i.pinimg.com/originals/e3/66/49/e366497f8a254f8588c8daf9fb851364.gif" alt="english" width="50" height="30"/> </a>
+ <img src="https://i.pinimg.com/originals/70/af/d5/70afd5096cf07bd75994c64f5c475f86.gif" alt="bengali" width="50" height="30"/>
+ <img src="https://i.pinimg.com/originals/10/d6/94/10d6947819d3a0ae5bf6060da719fcc6.gif" alt="hindi" width="50" height="30"/>
+ <img src="https://i.pinimg.com/originals/e3/66/49/e366497f8a254f8588c8daf9fb851364.gif" alt="english" width="50" height="30"/>
  
  --> Programming Language's 
  
- <a href="" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/d9/14/d5/d914d51a88a57405aa2e92d6e039d559.gif" alt="html5" width="50" height="50"/></a>
- <a href="" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/a5/f6/a3/a5f6a32e0b7536b8cccc17ea77bb2401.gif" alt="css3" width="50" height="50"/></a>
- <a href="" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/fa/d3/a5/fad3a57446df8e28f19fd56a65e50baa.gif" alt="javascript" width="50" height="50"/></a>
- <a href="https://github.com/Shourav-Deb/Wonderland-A-Bus-Ticket-Booking-System" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/9b/a0/2f/9ba02f5a83e30b95e0e1ed8428249edd.gif" alt="C" width="60" height="55"/></a>
- <a href="https://github.com/Shourav-Deb/Wonderland-A-Bus-Ticket-Booking-System" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/ce/3f/9d/ce3f9d9f1301598253be4d707943f97e.gif" alt="C++" width="45" height="55"/></a>
- <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/ea/ff/a2/eaffa29ff89eb1b2dd8e469a5e1acf6f.gif" alt="python" width="60" height="60"/></a>
- <a href="https://github.com/Shourav-Deb/Lovely-An-Actor-Renting-And-Adaptation-Management-Application" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/d4/b5/c4/d4b5c40f48f737f16e1d7d782941caac.gif" alt="java" width="55" height="75"/></a>
+<img src="https://i.pinimg.com/originals/d9/14/d5/d914d51a88a57405aa2e92d6e039d559.gif" alt="html5" width="50" height="50"/></a>
+<img src="https://i.pinimg.com/originals/a5/f6/a3/a5f6a32e0b7536b8cccc17ea77bb2401.gif" alt="css3" width="50" height="50"/></a>
+<img src="https://i.pinimg.com/originals/fa/d3/a5/fad3a57446df8e28f19fd56a65e50baa.gif" alt="javascript" width="50" height="50"/></a>
+<a href="https://github.com/Shourav-Deb/Wonderland-A-Bus-Ticket-Booking-System" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/9b/a0/2f/9ba02f5a83e30b95e0e1ed8428249edd.gif" alt="C" width="60" height="55"/></a>
+<img src="https://i.pinimg.com/originals/ce/3f/9d/ce3f9d9f1301598253be4d707943f97e.gif" alt="C++" width="45" height="55"/></a>
+<img src="https://i.pinimg.com/originals/ea/ff/a2/eaffa29ff89eb1b2dd8e469a5e1acf6f.gif" alt="python" width="60" height="60"/></a>
+<a href="https://github.com/Shourav-Deb/Lovely-An-Actor-Renting-And-Adaptation-Management-Application" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/d4/b5/c4/d4b5c40f48f737f16e1d7d782941caac.gif" alt="java" width="55" height="75"/></a>
 
 --> Tool's
  
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/a5/70/90/a57090f4c9f207376ac9eb381c70347d.gif" alt="photoshop" width="70" height="80"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/d0/1c/13/d01c13840fd5c74280d4b25e5769f9de.gif" alt="illustrator" width="70" height="70"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/a4/0b/71/a40b71f76276685b405f3f4940f7767b.gif" alt="aftereffect" width="77" height="60"/> </a>
- <a href="https://github.com/Shourav-Deb/Autocad-Projects" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/21/b8/59/21b859c5d1a7368d7835113859566718.gif" alt="autocad" width="40" height="50"/> </a>
- <a href="" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/dc/1f/11/dc1f114bf336f83250bec2776c8c62eb.gif" alt="word" width="60" height="40"/></a>
+<img src="https://i.pinimg.com/originals/a5/70/90/a57090f4c9f207376ac9eb381c70347d.gif" alt="photoshop" width="70" height="80"/> </a>
+<img src="https://i.pinimg.com/originals/d0/1c/13/d01c13840fd5c74280d4b25e5769f9de.gif" alt="illustrator" width="70" height="70"/> </a>
+<img src="https://i.pinimg.com/originals/a4/0b/71/a40b71f76276685b405f3f4940f7767b.gif" alt="aftereffect" width="77" height="60"/> </a>
+<a href="https://github.com/Shourav-Deb/Autocad-Projects" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/21/b8/59/21b859c5d1a7368d7835113859566718.gif" alt="autocad" width="40" height="50"/> </a>
+<img src="https://i.pinimg.com/originals/dc/1f/11/dc1f114bf336f83250bec2776c8c62eb.gif" alt="word" width="60" height="40"/></a>
 <a href="https://github.com/Shourav-Deb/Application-of-Calculus-in-Data-Mining./" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/fd/bc/af/fdbcaf5fa4edcd0f6edf6b16efebf67a.gif" alt="powerpoint" width="50" height="40"/> </a>
- </p>
+</p>
   
 <!--<h2 align="left">☕️ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈:</h2>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
