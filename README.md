@@ -27,20 +27,20 @@
 <br>
 <h2 align="left">📊 Some I Know, Some I Bluffed 🤞:</h2>
 <p align="left">
- # Country Language's -
+ --> Country Language's -
  
- <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/70/af/d5/70afd5096cf07bd75994c64f5c475f86.gif" alt="bengali" width="50" height="50"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/10/d6/94/10d6947819d3a0ae5bf6060da719fcc6.gif" alt="hindi" width="50" height="50"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/e3/66/49/e366497f8a254f8588c8daf9fb851364.gif" alt="english" width="50" height="50"/> </a>
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/70/af/d5/70afd5096cf07bd75994c64f5c475f86.gif" alt="bengali" width="50" height="30"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/10/d6/94/10d6947819d3a0ae5bf6060da719fcc6.gif" alt="hindi" width="50" height="30"/> </a>
+  <a href="https://i.pinimg.com/originals/e3/66/49/e366497f8a254f8588c8daf9fb851364.gif" target="_blank" rel="noreferrer"><meta http-equiv = "refresh" content = "1; url = https://www.tutorialspoint.com" /> <img src="https://i.pinimg.com/originals/e3/66/49/e366497f8a254f8588c8daf9fb851364.gif" alt="english" width="50" height="30"/> </a>
  
- # Programming Language's - 
+ --> Programming Language's - 
  
  <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/d9/14/d5/d914d51a88a57405aa2e92d6e039d559.gif" alt="html5" width="50" height="50"/> </a>
  <a href="" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/a5/f6/a3/a5f6a32e0b7536b8cccc17ea77bb2401.gif" alt="css3" width="50" height="50"/></a>
  <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/fa/d3/a5/fad3a57446df8e28f19fd56a65e50baa.gif" alt="javascript" width="50" height="50"/></a>
  <a href="https://github.com/Shourav-Deb/Wonderland-A-Bus-Ticket-Booking-System" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/a0/6c/d8/a06cd8ef9e55fdc799edcd56e229816b.gif" alt="C" width="60" height="60"/> </a>
- <a href="https://github.com/Shourav-Deb/Lovely-An-Actor-Renting-And-Adaptation-Management-Application" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/2c/ee/22/2cee226e39d6bdaaa50129946ca6a626.gif" alt="java" width="90" height="55"/></a>
  <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/18/87/93/1887933cda1b8188cd0cc95fa8a6de06.gif" alt="python" width="40" height="40"/></a>
+ <a href="https://github.com/Shourav-Deb/Lovely-An-Actor-Renting-And-Adaptation-Management-Application" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/2c/ee/22/2cee226e39d6bdaaa50129946ca6a626.gif" alt="java" width="90" height="55"/></a>
 
  
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
