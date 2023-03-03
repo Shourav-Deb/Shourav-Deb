@@ -45,14 +45,12 @@
 
 --> Tool's
  
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
- <a href="https://github.com/Shourav-Deb/Autocad-Projects" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="autocad" width="40" height="40"/> </a>
- <a href="" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/a3/84/4f/a3844f1f00b4c3c578d2bace3b60bf24.gif" alt="word" width="45" height="45"/> </a>
- <a href="https://github.com/Shourav-Deb/Application-of-Calculus-in-Data-Mining./" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/fd/bc/af/fdbcaf5fa4edcd0f6edf6b16efebf67a.gif" alt="powerpoint" width="50" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/a5/70/90/a57090f4c9f207376ac9eb381c70347d.gif" alt="photoshop" width="70" height="80"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/d0/1c/13/d01c13840fd5c74280d4b25e5769f9de.gif" alt="illustrator" width="70" height="70"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/a4/0b/71/a40b71f76276685b405f3f4940f7767b.gif" alt="aftereffect" width="77" height="60"/> </a>
+ <a href="https://github.com/Shourav-Deb/Autocad-Projects" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/21/b8/59/21b859c5d1a7368d7835113859566718.gif" alt="autocad" width="40" height="50"/> </a>
+ <a href="" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/dc/1f/11/dc1f114bf336f83250bec2776c8c62eb.gif" alt="word" width="60" height="40"/></a>
+<a href="https://github.com/Shourav-Deb/Application-of-Calculus-in-Data-Mining./" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/fd/bc/af/fdbcaf5fa4edcd0f6edf6b16efebf67a.gif" alt="powerpoint" width="50" height="40"/> </a>
  </p>
   
 <!--<h2 align="left">☕️ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈:</h2>
