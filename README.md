@@ -60,7 +60,7 @@
 </p>--> 
  
  <h2></h2>
- <h3 align="center"; style="color:blue;"><i><u><img align="center" alt="Coding" width="50" src="https://i.pinimg.com/originals/3b/1a/3d/3b1a3d89dc965f415cd350d119090ea4.gif"> ||  Leaving So Early  || <img align="center" alt="Coding" width="50" src="https://i.pinimg.com/originals/3b/1a/3d/3b1a3d89dc965f415cd350d119090ea4.gif"></u><p><img align="right" src="https://komarev.com/ghpvc/?username=shourav-deb&label=Total%20Pushed%20Offd%20-color=f88818&style=plastic" alt="shourav-deb"/></p></h3>
+ <h3 align="center"; style="color:blue;"><i><u><img align="center" alt="Coding" width="50" src="https://i.pinimg.com/originals/3b/1a/3d/3b1a3d89dc965f415cd350d119090ea4.gif"> ||  Leaving So Early  || <img align="center" alt="Coding" width="50" src="https://i.pinimg.com/originals/3b/1a/3d/3b1a3d89dc965f415cd350d119090ea4.gif"></u><p><img align="right" src="https://komarev.com/ghpvc/?username=shourav-deb&label=Total%20Pushed%20Off%20-&color=f88818&style=plastic" alt="shourav-deb"/></p></h3>
   
  <img align="center" alt="Coding" width="1080" hight="200" src="https://i.pinimg.com/originals/5a/e9/b5/5ae9b5886062c84a47af48e0ff571f27.gif">
 <h3 align="center"; style="color:blue;"><i><u><img align="center" alt="Coding" width="70" src="https://i.pinimg.com/originals/0d/ac/7e/0dac7e14010362ff081e2167be218341.gif">  Good Bye. See You Soon. <img align="center" alt="Coding" width="70" src="https://i.pinimg.com/originals/0d/ac/7e/0dac7e14010362ff081e2167be218341.gif"></u></h3>
