@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0f/8e/10/0f8e10b4dc9707d222113df0aec0bf2f.gif">
  
 
- <p align="left">> So, I am popular among -</p>
+ <p align="left">> So, I have seen by -</p>
  <img src="https://count.getloli.com/get/@shourav-deb?theme=rule34" alt="shourav-deb" />
 
 <b>- 🧩 I’m currently working on Creating Myself <img alt="discription" width="30" src="https://i.pinimg.com/originals/99/cd/69/99cd696ea5e9e5e173baade198190e9c.gif">.<br>
